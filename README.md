@@ -61,7 +61,7 @@ Include any essential instructions for:
 - Thank you (name contributors)
 
 ### TODO
-- Next steps
+- Develop and Code the Logon Screen
 - Features planned
 - Known bugs (shortlist)
 
