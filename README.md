@@ -1,5 +1,3 @@
-Your Project Logo/Icon: 
-
 ![TSTC Logo](https://github.com/TSTC-CPT/Final-Project21xx_Example_Readme/blob/main/TSTC.png "TSTC Logo")
 
 # TSTC Video Game Store
