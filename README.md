@@ -1,42 +1,33 @@
-### Make the changes shown below with the [Must Update]. Once all changes are made, delete this line from your Readme.md and make sure to remove the [Must Update] tags.
-Readme.md Version# 2021.05.11
-Review this site before modifing your Readme.md file:
-
-https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
-
-
 Your Project Logo/Icon: 
 
-![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/OctoCat_SM.png "My Pet Octocat Logo")
+![TSTC Logo](https://github.com/TSTC-CPT/Final-Project21xx_Example_Readme/blob/main/TSTC.png "TSTC Logo")
 
-# Project Name [Must Update]
-Very brief and to the point project description (one sentance preferred)
+# TSTC Video Game Store
+A Video Game Store program for buying and selling video games.
 
-## Detailed Description [Must Update]
+## Detailed Description
 
-Clear semi-detailed professional description of your project. (about a paragraph or slightly more)
+A desktop program to allow customers to buy video games. Customers are required to login to shop and make purchases. Employees can assist customers with sales. Managers can also assist customers as well as manage the inventory and print reports.
 
-### Project Introduction [Must Update]  
+### Project Introduction  
 
-- Describe very briefly but clearly what the project does.
-- State if it is out-of-the-box user-friendly, so it’s clear to the user.
-- List its most useful/innovative/noteworthy features.
-- State its goals/what problem(s) it solves.
-- Note and briefly describe any key concepts (technical, philosophical, or both) important to the user’s understanding.
-- Link to any supplementary blog posts or project main pages.
-- Note its development status.
-- If possible, include screenshots and demo videos.
+- Handles customer purchases using a Shopping cart checkout method
+- Prints customer receipts via HTML documents (displayed in the default browser)
+- Allows Employees to conduct customer sales operations
+- Allows Managers to conduct customer sales operations
+- Allows Mangers to manage the store inventory
+- Allows Managers to print reports on Sales, Inventory, etc.
 
-### Development Environment [Must Update]
+### Development Environment
 
 Type | Description
 -----|-------------
 Language | C#
 Development Environment | Visual Studio 2019 Community Edition
-SQL Server Type/Dialect | Microsoft SQL
+SQL Server Type/Dialect | Microsoft SQL (TSC Server)
 Target Environment | Windows 10 Desktop
-Target Business/Industry | Whatever your target Business/Industry is
-Help System | Describe method used for context sensitive help
+Target Business/Industry | Gaming industry. Game sales/stores.
+Help System | Context sensitive help will be available using dedicate HTML help files
 Report Methods | HTML Reports
 
 ### Core Technical Concepts/Inspiration
@@ -78,29 +69,13 @@ Include any essential instructions for:
 
 Contact | Information
 --------|------
-Name | Your Name
-Email | Your Email Address
-Social Media Link | Your Social Media link(s) (if applicable)
-Google Group/mailing list | Your mail distribution list (if applicable)
+Name | James G. Flippin, Jr.
+Email | james.flippin@tstc.edu
+Social Media Link | 
+Google Group/mailing list | 
 
-### License [Must Update]
-Indicate your license/License model, etc.
+### <a href="https://github.com/TSTC-CPT/Final-Project21xx_Example_Readme/blob/main/LICENSE" target _blank>License</a>
 
-(also, review the Instructions for adding a license file:
-
-https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)
-
-**[For the Final Project course, we will use the GNU General Public License v3.0]**
-**[When you add the License file, make sure you update the references within it to yours]**
-
-The three major licenses used are:  
-
-Apache License v2.0
-
-GNU General Public License v3.0 [Use this one]
-
-MIT License
-
-
+GNU General Public License v3.0
 
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
