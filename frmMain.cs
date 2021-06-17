@@ -1,11 +1,10 @@
-﻿//ToDo: Change the entries below indicated by {} to your values
+﻿//*******************************************
 //*******************************************
+// Programmer: James G. Flippin, Jr.
+// Course: INEW 2332.7z1 (Final Project)
+// Program Description: This is a video game store program. Where customers can buy video games.
 //*******************************************
-// Programmer: {Your name goes here}
-// Course: INEW 2332.{xxxx} (Final Project)
-// Program Description: {Program Purpose Goes here}
-//*******************************************
-// Form Purpose: {What is this form used for}
+// Form Purpose: This form is the main landing page/entry point for this program
 //*******************************************
 //*******************************************
 
