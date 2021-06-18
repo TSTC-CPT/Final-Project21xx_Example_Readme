@@ -1,5 +1,7 @@
 Test
 
+Readme.md Version# 2021.06.17
+
 ![TSTC Logo](https://github.com/TSTC-CPT/Final-Project21xx_Example_Readme/blob/main/TSTC.png "TSTC Logo")
 
 # TSTC Video Game Store
@@ -24,7 +26,7 @@ Type | Description
 -----|-------------
 Language | C#
 Development Environment | Visual Studio 2019 Community Edition
-SQL Server Type/Dialect | Microsoft SQL (TSC Server)
+SQL Server Type/Dialect | Microsoft SQL (TSTC Server)
 Target Environment | Windows 10 Desktop
 Target Business/Industry | Gaming industry. Game sales/stores.
 Help System | Context sensitive help will be available using dedicate HTML help files
@@ -61,7 +63,7 @@ Include any essential instructions for:
 - Thank you (name contributors)
 
 ### TODO
-- Next steps
+- Develop and Code the Logon Screen
 - Features planned
 - Known bugs (shortlist)
 
